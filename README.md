@@ -33,7 +33,8 @@
     free(a); free(b); free(c); free(d);
 11. Конец.
 ### Блок-схема
-<img width="609" height="1892" alt="image" src="https://github.com/user-attachments/assets/dd5352a7-a2c8-42af-bc3a-61095653b6dc" />
+<img width="609" height="1892" alt="image" src="https://github.com/user-attachments/assets/1f34ffa8-2762-417d-bdfb-5e932abc914c" />
+
 
 
 
